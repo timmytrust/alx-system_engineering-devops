@@ -1,1 +1,1 @@
-command for ccurrent working directory
+path name of the current working directory
